@@ -1,0 +1,6 @@
+{
+  "name": "세계 수도 맞추기 게임",
+  "description": "국기를 모티브로 한 아름다운 배경과 함께 즐기는 4지선다 세계 수도 퀴즈! 하/중/상 난이도 선택, 10초 제한시간, 1회의 재도전 기회가 제공됩니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
